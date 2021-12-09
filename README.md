@@ -1,7 +1,7 @@
 # intro-to-ctrl-eng-with-python
 [「Pythonによる制御工学入門」](https://y373.sakura.ne.jp/minami/pyctrl)の勉強用リポジトリです。
 # 環境構築（Windows）
-「slycot」のインストール時にエラーが発生する。Macだと問題ないらしい。
+「slycot」のインストール時にエラーが発生。Macだと問題ないようです。
  ```
 pip install slycot
  ```
